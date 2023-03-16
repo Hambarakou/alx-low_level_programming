@@ -9,5 +9,5 @@ int main(void)
 {
 char str1[51]
 strcpy(str1, ""Programming is like building a multilingual puzzle")
-return (0)
-} 
+return (0);
+}
