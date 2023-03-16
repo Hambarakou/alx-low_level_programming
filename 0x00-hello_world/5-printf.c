@@ -1,2 +1,12 @@
-#!/bin/bash
-gcc 5-main.c
+#include <stdio.>
+
+/**
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
+int main(void)
+{
+prinf("with proper grammar, but the outcome is a piece of art,");
+return (0);
+}
