@@ -1,2 +1,13 @@
-#!/bin/bash
-gcc 4-main.c -E
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+char str1[51]
+strcpy(str1, ""Programming is like building a multilingual puzzle");
+return (0);
+}
