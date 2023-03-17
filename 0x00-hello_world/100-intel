@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc 7-main.c -S -masm=intel
+gcc 0-main.c -S -masm=intel
