@@ -7,9 +7,14 @@
 int main(void)
 {
 char n;
-for (n = "0," ; n <= '9' ; n++)
+char i = ',';
+for (n = '0' ; n <= '9' ; n++)
 {
 putchar (n);
+}
+for (i <= '9' ; i++)
+{
+putchar (i);
 }
 return (0);
 }
