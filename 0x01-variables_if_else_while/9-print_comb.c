@@ -7,7 +7,7 @@
 int main(void)
 {
 int n;
-int i = ", ";
+int i = ',';
 for (n = '0' ; n <= '9' ; n++)
 {
 putchar (n);
