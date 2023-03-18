@@ -10,7 +10,7 @@ int ch;
 
 for (ch = '0' ; ch <= '9' ; ch++)
 {
-putchar (ch);
+putchar (ch / n);
 }
 return (0);
 }
