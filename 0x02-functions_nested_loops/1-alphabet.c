@@ -7,14 +7,14 @@
 */
 int main(void)
 {
-char print_alphabet(ch)
+void print_alphabet(void)
 {
 char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
-return (ch);
+return;
 }
 return (0);
 }
