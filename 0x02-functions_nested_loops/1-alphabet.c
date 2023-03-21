@@ -19,7 +19,7 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
-return;
+return (void);
 }
 print_alphabet();
 return (0);
