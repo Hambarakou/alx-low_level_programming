@@ -2,11 +2,16 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* function - print_alphabet
+*
 * Return: Always 0 (Success)
 */
 int main(void)
 {
+/**
+* print_alphabet - alphabet
+*
+* Return: void
+*/
 void print_alphabet(void)
 {
 char ch;
