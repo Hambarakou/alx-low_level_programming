@@ -21,6 +21,6 @@ putchar(ch);
 }
 return;
 }
-printf(print_alphabet(void));
+printf(print_alphabet());
 return (0);
 }
