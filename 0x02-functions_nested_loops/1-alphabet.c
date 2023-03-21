@@ -1,5 +1,10 @@
 #include "main.h"
 #include <stdio.h>
+/**
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 void print_alphabet(void)
@@ -7,7 +12,7 @@ void print_alphabet(void)
 char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
-putchar(ch/n);
+putchar(ch);
 }
 return (0);
 }
