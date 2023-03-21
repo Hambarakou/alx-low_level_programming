@@ -19,7 +19,8 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
-return (print_alphabet);
+return;
 }
+printf(print_alphabet);
 return (0);
 }
